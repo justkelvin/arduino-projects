@@ -1,0 +1,54 @@
+[
+    {
+      "date": "2023-06-01",
+      "coffee_consumed": 3,
+      "productivity_rating": 7,
+      "steps_climbed": 2500,
+      "smiles": 20,
+      "frowns": 2,
+      "music_streaming": [
+        {
+          "genre": "Pop",
+          "artist": "Taylor Swift",
+          "time_of_day": "Morning"
+        },
+        {
+          "genre": "Rock",
+          "artist": "Led Zeppelin",
+          "time_of_day": "Afternoon"
+        },
+        {
+          "genre": "Electronic",
+          "artist": "Daft Punk",
+          "time_of_day": "Evening"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-02",
+      "coffee_consumed": 2,
+      "productivity_rating": 6,
+      "steps_climbed": 3500,
+      "smiles": 15,
+      "frowns": 3,
+      "music_streaming": [
+        {
+          "genre": "Hip Hop",
+          "artist": "Kendrick Lamar",
+          "time_of_day": "Morning"
+        },
+        {
+          "genre": "Indie",
+          "artist": "Arctic Monkeys",
+          "time_of_day": "Afternoon"
+        },
+        {
+          "genre": "Alternative",
+          "artist": "Radiohead",
+          "time_of_day": "Evening"
+        }
+      ]
+    },
+    ...
+  ]
+  
